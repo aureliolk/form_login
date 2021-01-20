@@ -25,8 +25,8 @@
             <img class="mb-4 img-fluid" src="./assets/img/logoAcosGlobal.png" alt="">
             <h1 class="h3 mb-3 fw-normal">Faça seu Loguin</h1>
 
-            <input type="text" id="inputUser" name="user" class="form-control" placeholder="Usuário" required autofocus>
-            <input type="password" id="inputPass" name="pass" class="form-control" placeholder="Senha" required="">
+            <input type="text" id="inputUser" name="user" class="form-control" placeholder="Digite: aureliolk" required autofocus>
+            <input type="password" id="inputPass" name="pass" class="form-control" placeholder="Digite: 14253" required="">
             <div class="checkbox mb-3">
               <label>
                 <input type="checkbox" value="remember-me"> Lembre-me
